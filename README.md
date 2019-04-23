@@ -29,3 +29,4 @@
 ### GPS
 - [MapQuest](https://developer.mapquest.com/)
 - [MapBox](https://www.mapbox.com/)
+- [GoMap](https://gomap-asset.com/)
