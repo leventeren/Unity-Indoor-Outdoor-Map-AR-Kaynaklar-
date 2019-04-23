@@ -14,6 +14,7 @@
 - [Google ARCore](https://developers.google.com/ar/)
 - [Apple ARKit](https://developer.apple.com/arkit/)
 - [Vurofia](https://developer.vuforia.com/)
+- [wikitude](https://www.wikitude.com/products/wikitude-sdk/)
 
 -----
 
