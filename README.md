@@ -15,6 +15,7 @@
 - [Apple ARKit](https://developer.apple.com/arkit/)
 - [Vurofia](https://developer.vuforia.com/)
 - [wikitude](https://www.wikitude.com/products/wikitude-sdk/)
+- [8thWall](https://www.8thwall.com)
 
 -----
 
